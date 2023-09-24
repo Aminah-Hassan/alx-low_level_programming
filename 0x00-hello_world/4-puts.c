@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - prints Programming is like multilingual puzzle followed by a new line.
+ * main - prints Programing is like multilingual puzzle followed by a new line.
  * return 0.
  */
 
