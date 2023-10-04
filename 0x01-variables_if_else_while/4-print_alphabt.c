@@ -1,20 +1,19 @@
 #include <stdio.h>
 
 /**
- * main - Prints Lowercase letters except e & q
+ * main - Prints lowercase alphabet except e and q
  * Return: Always (success)
  */
 
 int main(void)
 {
-	char c;	
-	for (c = 'a'; c <= 'z'; c++)
+	 char C;
 
-	{
-		if (c != 'e' && c != 'q')
-			putchar(c);
-	}
-
-	putchar('\n');
-	return (0);
+	 for (C = 'a'; C <= 'z'; C++)
+	 {
+		 if ( C != 'e' && C != 'q')
+			 putchar(C);
+	 }
+	 putchar('\n');
+	 return (0);
 }
