@@ -2,12 +2,13 @@
 
 /**
  * main - Prints Lowercase letters except e & q
- * Retutn: Always (success)
+ * Return: Always (success)
  */
 
 int main(void)
 {
 	char c;
+	
 	for (c = 'a'; c <= 'z'; c++)
 	{
 		if (c != 'e' && c != 'q')
