@@ -10,7 +10,7 @@ int main(void)
 	int num;
 	char C;
 
-	for (num = '0'; num <= '9'; num ++)
+	for (num = '0'; num <= '9'; num++)
 	{
 		putchar(num);
 	}
@@ -19,5 +19,5 @@ int main(void)
 		putchar(C);
 	}
 	putchar('\n');
-	return(0);
+	return (0);
 }
