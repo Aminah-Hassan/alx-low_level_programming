@@ -1,6 +1,5 @@
 #include "main.h"
 #include <stdio.h>
-
 /**
  * main - Write a function that print_alphabet, in lowercase.
  * prints 'c'
@@ -8,7 +7,6 @@
  * Return: Always 0
  */
 int  putchar (int C);
-
 void print_alphabet(void)
 {
 	char C;
