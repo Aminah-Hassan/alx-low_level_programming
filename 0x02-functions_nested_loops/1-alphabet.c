@@ -5,7 +5,6 @@
  * Followed by a new line.
  * Return: Always 0
  */
-
 int putchar (int character);
 
 void print_alphabet(void)
