@@ -1,10 +1,8 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
- * int _abs (int) -  computes the absolute value of an integer.
- * Parameter N - Our parameter
- *
+ * _abs (int) -  computes the absolute value of an integer.
+ * N - Our parameter
  * Return: Always void
  */
 int _abs(int N)
