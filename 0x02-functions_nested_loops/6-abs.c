@@ -2,7 +2,9 @@
 #include <stdio.h>
 
 /**
- * int _abs(int) -  computes the absolute value of an integer.
+ * int _abs (int) -  computes the absolute value of an integer.
+ * Parameter N - Our parameter
+ *
  * Return: Always void
  */
 int _abs(int N)
